@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/akash-2410/akash-2410/master/name.svg" alt="Akash Pandey" />
 </h1>
-<h1 align="center">Hi 👋, <em>I'm Akash Pandey</em></h1>
+<h1 align="center">Hi 👋, <em>I'm </em></h1>
 <h3 align="center"> Transforming Ideas into Functional Reality through Innovation, Persistence, and a Dash of Creativity. 💻</h3>
 
 - 🌱 I’m currently learning **Nodejs ,SQL , ExpressJs**
