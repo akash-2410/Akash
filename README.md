@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/akash-2410/akash-2410/master/name.svg" alt="Akash Pandey" />
+</h1>
 <h1 align="center">Hi 👋, <em>I'm Akash Pandey</em></h1>
 <h3 align="center"> Transforming Ideas into Functional Reality through Innovation, Persistence, and a Dash of Creativity. 💻</h3>
 
